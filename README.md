@@ -1,3 +1,2 @@
 # ros_homework
-build是编译opencv的作业
-pub_sub.py是发布器和订阅器的作业
+机器人软件工程学作业仓库
